@@ -1,4 +1,4 @@
-# Run-Time Anomaly Detection for Software Systems
+# Multi-Layer Perceptrons for Predictive Maintenance
 
 This machine learning project aims to reduce operational costs of running manufacturing systems by
 preemptively detecting machine failure. The project is based
